@@ -1,0 +1,12 @@
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/azure-app-albi
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/publish/web.config
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/appsettings.json
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/publish/appsettings.Development.json
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/publish/appsettings.json
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/publish/azure-app-albi.deps.json
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/publish/azure-app-albi.runtimeconfig.json
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/azure-app-albi.dll
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/azure-app-albi.deps.json
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/azure-app-albi.runtimeconfig.json
+/Users/apple/Desktop/projects/azure/azure-app-albi/bin/Release/net8.0/publish/azure-app-albi.pdb
