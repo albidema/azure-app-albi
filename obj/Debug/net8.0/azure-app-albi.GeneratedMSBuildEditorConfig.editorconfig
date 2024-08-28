@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/apple/Desktop/projects/azure/azure-app-albi
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/apple/Desktop/projects/azure/azure-app-albi/Pages/DeploymentSlots.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVwbG95bWVudFNsb3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/apple/Desktop/projects/azure/azure-app-albi/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

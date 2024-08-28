@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-albi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd22b1e47d6a15854cc73942cc5af133165b7f6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e78aadebd0f38e1e8d730413c0410586e1aaa79a")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-albi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-albi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
