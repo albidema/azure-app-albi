@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f1c82074-41a0-4cbc-9f1a-75c55210821a")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-albi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd22b1e47d6a15854cc73942cc5af133165b7f6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eb0055f7a39f744f91a4f2d6ae5d0d34883bae0")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-albi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-albi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
